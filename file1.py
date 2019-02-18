@@ -1,1 +1,2 @@
-print "hello world" #test line 
+print "hello world" #test line
+print "tara loves notes and cock" #facts
